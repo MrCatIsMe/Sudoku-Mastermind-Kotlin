@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+    <!-- State when button is pressed -->
+    <item android:state_pressed="true">
+        <shape>
+            <gradient
+                android:startColor="#DD2476"
+                android:endColor="#FF512F"
+                android:angle="45" />
+        </shape>
+    </item>
+
+    <!-- Default state -->
+    <item>
+        <shape>
+            <gradient
+                android:startColor="#FF512F"
+                android:endColor="#DD2476"
+                android:angle="45" />
+        </shape>
+    </item>
+</selector>

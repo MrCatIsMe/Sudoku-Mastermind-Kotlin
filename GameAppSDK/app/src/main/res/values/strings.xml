@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">GameAppSDK</string>
+    <string name="sign_in">Already have an account?<font color="#694F60"> Sign In</font></string>
+    <string name="get_s_started">Get\'s Started</string>
+    <string name="let_s_get_started">Let\'s Get Started</string>
+    <string name="welcome_to_sudoku">Welcome to Sudoku!</string>
+    <string name="already_an_user_login">Already an user? <b>Login</b></string>
+    <string name="not_yet_registered_sign_up">Not yet registered? <b>Sign Up</b></string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+
+
+
+
+    <!-- Các mức độ khó trong game -->
+    <string-array name="difficulty_levels">
+        <item>Easy</item>
+        <item>Medium</item>
+        <item>Hard</item>
+        <item>Very Hard</item>
+        <item>Extreme</item>
+    </string-array>
+
+</resources>

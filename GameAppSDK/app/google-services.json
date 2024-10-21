@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "326491204387",
+    "project_id": "gameappsdk-a5490",
+    "storage_bucket": "gameappsdk-a5490.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:326491204387:android:597f1f79aa444cd3b27a96",
+        "android_client_info": {
+          "package_name": "com.example.gameappsdk"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDsbBQtSswTLS41A6Q12RkSPb_xKFPEJ0k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
